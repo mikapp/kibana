@@ -115,7 +115,7 @@
     "leaflet": "0.7.5",
     "less": "2.5.1",
     "less-loader": "2.2.0",
-    "lodash": "3.10.1",
+    "lodash": "4.17.21",
     "marked": "0.3.3",
     "minimatch": "2.0.10",
     "mkdirp": "0.5.1",
